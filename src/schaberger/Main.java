@@ -7,5 +7,6 @@ public class Main {
 	System.out.println("Hello, Nicolas, my name is Fakeperson.");
 	System.out.println("This is yet another change");
 	System.out.println("One more addition");
+	System.out.println("This is a change from Nicolas");
     }
 }
