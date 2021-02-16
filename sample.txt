@@ -1,3 +1,5 @@
 this is just a sample for a git assignment
 
 This is a change made in the Github web
+
+This is another change made in the web to test the merge conflict
